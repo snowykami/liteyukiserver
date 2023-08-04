@@ -9,6 +9,8 @@
         <font color="#a2d8f4">
             Server
         </font>
+        <br>
+        轻雪的生存服务器
     </h2>
 </div>
 <div align=center><h4>原版生存，插件，养老</h4></div>
