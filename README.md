@@ -17,7 +17,7 @@
 
 ## 申请白名单
 
-- Java版需要正版验证，请正版用户加群172811867后，在群内发送：```申请白名单 游戏ID```进行申请
+- Java版需要正版验证，请正版用户加群[172811867](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MlKVG2xKNkVyWyp16U2OXLts1smmCgkS&authKey=BAgaMDmD7jqvqzrfdPk93FTRHh4vRa%2Fn10HzM8K52i4UZ%2B%2FIf5%2FXfSd0m7x25ULy&noverify=0&group_code=172811867)后，在群内发送：```申请白名单 游戏ID```进行申请
 - 基岩版玩家直接加入服务器，在提示你不在白名单之后，再进行申请
 
 ## 服务器规则
