@@ -27,15 +27,15 @@
 
 ## 地址
 
-#### 重庆节点（重庆市沙坪坝区）
+#### 重庆节点（重庆市沙坪坝区 1000Mbps）
 - Java版：liteyuki.icu
 - 基岩版：liteyuki.icu 端口：29142
 
-#### 香港节点（香港特别行政区黄大仙区）
+#### 香港节点（香港特别行政区黄大仙区 5Mbps）
 - Java版：hk.liteyuki.icu
 - 基岩版：hk.liteyuki.icu 端口：29142
 
-#### 东京节点（东京都江东区）
+#### 东京节点（东京都江东区 1Gbps）
 - Java版：jp.liteyuki.icu
 - 基岩版：jp.liteyuki.icu 端口：29142
 
