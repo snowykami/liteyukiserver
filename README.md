@@ -27,7 +27,7 @@
 
 ## 地址
 
-#### 重庆节点（重庆市沙坪坝区 1000Mbps）
+#### 重庆节点（重庆市沙坪坝区 1Gbps）
 - Java版：liteyuki.icu
 - 基岩版：liteyuki.icu 端口：29142
 
