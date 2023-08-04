@@ -26,13 +26,13 @@
 - 基岩版玩家直接加入服务器，在提示你不在白名单之后，再进行申请
 
 ## 地址
-### 重庆节点
+#### 重庆节点
 - Java版：liteyuki.icu
 - 基岩版：liteyuki.icu 端口：29142
-### 香港节点
+#### 香港节点
 - Java版：hk.liteyuki.icu
 - 基岩版：hk.liteyuki.icu 端口：29142
-### 东京节点
+#### 东京节点
 - Java版：jp.liteyuki.icu
 - 基岩版：jp.liteyuki.icu 端口：29142
 
