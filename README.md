@@ -15,6 +15,11 @@
 </div>
 <div align=center><h4>原版生存，插件，养老</h4></div>
 
+## 须知
+
+- 服务器为Geyser互通服务器
+- 服务器版本为Java：1.20+，基岩版：1.19.80+
+
 ## 申请白名单
 
 - Java版需要正版验证，请正版用户加群[172811867](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MlKVG2xKNkVyWyp16U2OXLts1smmCgkS&authKey=BAgaMDmD7jqvqzrfdPk93FTRHh4vRa%2Fn10HzM8K52i4UZ%2B%2FIf5%2FXfSd0m7x25ULy&noverify=0&group_code=172811867)后，在群内发送：```申请白名单 游戏ID```进行申请
