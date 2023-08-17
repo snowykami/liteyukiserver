@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://gitee.com/snowykami/snowykami/raw/master/img/snowy.png" style="width: 30%; margin-top:10%;">
+    <img src="https://img1.imgtp.com/2023/08/18/xaqycfz4.png" style="width: 30%; margin-top:10%;">
 </div>
 <div align=center>
     <h2>
