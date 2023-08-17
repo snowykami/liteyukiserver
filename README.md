@@ -1,19 +1,19 @@
 <div align="center">
-    <img src="https://img1.imgtp.com/2023/08/18/xaqycfz4.png" style="width: 30%; margin-top:10%;">
+    <img src="https://img1.imgtp.com/2023/08/18/xaqycfz4.png" style="width: 30%; margin-top: 10%;">
 </div>
-<div align=center>
+
+<div align="center">
     <h2>
-        <font color="#d0e9ff">
-            Liteyuki
-        </font>
-        <font color="#a2d8f4">
-            Server
-        </font>
-        <br>
+        <font color="#d0e9ff">Liteyuki</font>
+        <font color="#a2d8f4">Server</font><br>
         轻雪：猫猫乐园
     </h2>
 </div>
-<div align=center><h4>生存 插件 养老</h4></div>
+
+<div align="center">
+    <h4>生存 插件 养老</h4>
+</div>
+
 
 #### 语言: [中文](README.md) | [English](README_EN.md) | [日本語](README_JP.md)
 
