@@ -10,7 +10,7 @@
             Server
         </font>
         <br>
-        轻雪的生存服务器
+        轻雪：猫猫乐园
     </h2>
 </div>
 <div align=center><h4>生存 插件 养老</h4></div>
